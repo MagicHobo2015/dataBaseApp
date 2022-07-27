@@ -36,3 +36,6 @@
 
 # Ignore my build directory too!
 build/*
+
+# jetbrains stuff
+.idea
